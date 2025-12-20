@@ -1,5 +1,5 @@
 
-# 📊 Sales & Customer Performance Dashboards (Tableau)
+# 📊 Sales & Customer Dashboards (Tableau)
 
 ## Problem Statement
 
